@@ -5,7 +5,7 @@ export default class Header extends PureComponent {
   render() {
     return (
       <header className="component-header">
-        Emoji Search
+        Emoji Search App
       </header>
     );
   }
